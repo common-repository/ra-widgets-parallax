@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: RA Widgets Parallax\n"
+"POT-Creation-Date: 2018-01-08 06:22+0800\n"
+"PO-Revision-Date: 2018-01-08 06:21+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ra-widgets-parallax.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ra-widgets-parallax.php:15
+msgid "With great power comes great responsibility."
+msgstr ""
+
+#: ra-widgets-parallax.php:60
+msgid "Parallax Settings"
+msgstr ""
+
+#: ra-widgets-parallax.php:63
+msgid "Image"
+msgstr ""
+
+#: ra-widgets-parallax.php:66
+msgid "Upload image"
+msgstr ""
+
+#: ra-widgets-parallax.php:68
+msgid "You must provide a path to the image to enable parallax effect."
+msgstr ""
+
+#: ra-widgets-parallax.php:71
+msgid "Speed"
+msgstr ""
+
+#: ra-widgets-parallax.php:73
+msgid ""
+"The speed at which the parallax effect runs. 0.0 means the image will appear "
+"fixed in place, and 1.0 the image will flow at the same speed as the page "
+"content."
+msgstr ""
+
+#: ra-widgets-parallax.php:76
+msgid "Position"
+msgstr ""
+
+#: ra-widgets-parallax.php:82
+msgid ""
+"This is analogous to the background-position css property. Specify "
+"coordinates as top, bottom, right, left, or center. The parallax image will "
+"be positioned as close to these values as possible while still covering the "
+"target element."
+msgstr ""
+
+#: ra-widgets-parallax.php:85
+msgid "Mirror Container"
+msgstr ""
+
+#: ra-widgets-parallax.php:87
+msgid "The parallax mirror will be prepended into this container."
+msgstr ""
+
+#: ra-widgets-parallax.php:185
+msgid "Center Center"
+msgstr ""
+
+#: ra-widgets-parallax.php:186
+msgid "Center Top"
+msgstr ""
+
+#: ra-widgets-parallax.php:187
+msgid "Center Bottom"
+msgstr ""
+
+#: ra-widgets-parallax.php:188
+msgid "Right Top"
+msgstr ""
+
+#: ra-widgets-parallax.php:189
+msgid "Right Bottom"
+msgstr ""
+
+#: ra-widgets-parallax.php:190
+msgid "Left Top"
+msgstr ""
+
+#: ra-widgets-parallax.php:191
+msgid "Left Bottom"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "RA Widgets Parallax"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/webdevsuperfast/ra-widgets-parallax"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add parallax scrolling image effect on your widgets."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rotsen Mark Acob"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rotsenacob.com/"
+msgstr ""
